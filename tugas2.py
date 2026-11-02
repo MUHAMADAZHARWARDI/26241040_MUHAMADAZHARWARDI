@@ -1,5 +1,5 @@
 #Tugas 2
-nim = 26241052
+nim = 26241040
 
 digit_1 = 2
 digit_2 = 6
